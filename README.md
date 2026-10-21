@@ -27,7 +27,7 @@ and daily delivery KPIs, refreshed nightly, without querying the production app 
 ## How to run
 
 ### Google Colab (how I ran it)
-    !git clone https://github.com/[اسم حسابك]/qafila-capstone
+    !git clone https://github.com/Baxxyo/qafila-capstone
     %cd qafila-capstone
     !pip install -q uv
     !uv sync
